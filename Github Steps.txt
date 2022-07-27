@@ -23,7 +23,7 @@ GIT (Distributive Version Control System)
 	GIT PUSH -U ORIGIN MASTER
 13) Signup with code or Signup with browser
 
-remove git user.name
+14)remove git user.name
 git config --global --replace-all user. name "Your New Name"
 git config --global --replace-all user. email "Your new email"
 git config --global --unset user. name.
